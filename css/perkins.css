@@ -9,7 +9,7 @@ html,body {
 }
 
 p {
-	margin: 50px 140px;
+	margin: 20px 140px 50px;
 	font-size: 20px;
 	line-height: 30px;
 }
@@ -24,7 +24,7 @@ p {
 }
 
 h1 {
-	font-weight: lighter;
+	letter-spacing: 1px;
 }
 
 .page-title {
@@ -32,7 +32,7 @@ h1 {
 }
 
 .section-title {
-	margin: 50px 140px;
+	margin: 50px 140px 0px;
 }
 
 .name {
