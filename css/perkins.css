@@ -38,7 +38,7 @@ h1 {
 .name {
 	max-height: 150px;
 	padding: 15px;
-	max-width: 50%;
+	max-width: 48%;
 
 }
 
@@ -52,12 +52,11 @@ right: 0;
 
 .topnav a {
   float: right;
-  font-size: 20px;
+  font-size: 18px;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  border-bottom: : 1px solid black;
 }
 
 .topnav a:hover {
