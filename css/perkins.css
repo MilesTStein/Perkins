@@ -27,8 +27,12 @@ h1 {
 	font-weight: lighter;
 }
 
-.section-title {
+.page-title {
 	text-align: center;
+}
+
+.section-title {
+	margin: 50px 140px;
 }
 
 .name {
