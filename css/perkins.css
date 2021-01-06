@@ -27,6 +27,9 @@ h1 {
 	font-weight: lighter;
 }
 
+.section-title {
+	text-align: center;
+}
 
 .name {
 	max-height: 150px;
