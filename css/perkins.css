@@ -24,11 +24,12 @@ p {
 }
 
 h1 {
-	letter-spacing: 1px;
+	letter-spacing: 0.03em;
 }
 
 .page-title {
 	text-align: center;
+  margin: 30px;
 }
 
 .section-title {
