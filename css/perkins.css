@@ -39,7 +39,7 @@ h1 {
 .name {
   max-height: 150px;
   padding: 15px;
-  max-width: 60%;
+  max-width: 57%;
   margin-left: -50px
 
 }
@@ -136,6 +136,16 @@ right: 0;
 
 .slider-wrapper > .slide:first-child {
 	opacity: 1;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 150px;
+  background-color:hsla(0, 0%, 0%, 0.4);
+  color: white;
+  font-size: 65px;
+  width: 750px;
+  padding: 20px;
 }
 
 .pullquote {
