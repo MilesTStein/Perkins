@@ -179,6 +179,7 @@ h1 {
 /*--Contact Form--*/
 
 input[type=text], select, textarea {
+  font-family: 'Merriweather', serif;
   width: 100%;
   padding: 20px;
   border: 1px solid #ccc;
@@ -190,6 +191,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
+  font-family: 'Merriweather', serif;
   background-color: #820707;
   color: white;
   margin-top: 50px;
